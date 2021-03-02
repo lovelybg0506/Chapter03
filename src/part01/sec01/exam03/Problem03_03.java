@@ -38,6 +38,7 @@ public class Problem03_03 {
 		System.out.printf("\n십원짜리==>%d개\n",c10);
 		System.out.printf("바꾸지 못한 잔돈==>%d원\n", money);
 
+		s.close();
 	}
 
 }
