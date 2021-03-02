@@ -6,8 +6,8 @@ public class Ex03_03 {
 
 		System.out.printf("%d/%d=%d",100,200,300);
 		System.out.printf("\n");
-//		System.out.printf("%d/%d=%d",100,200,0.5); //d ! = java.lang.Double ¿À·ù => ½Ç¼ö¸¦ Ãâ·ÂÇÒ¶§´Â %d°¡ ¾Æ´Ï°í %f
-		System.out.printf("%d/%d=%f",100,200,0.5); //±âº»ÀûÀ¸·Î ¼Ò¼öÁ¡ 6ÀÚ¸®±îÁö ³ª¿È.
+//		System.out.printf("%d/%d=%d",100,200,0.5); //d ! = java.lang.Double ì˜¤ë¥˜ => ì‹¤ìˆ˜ë¥¼ ì¶œë ¥í• ë•ŒëŠ” %dê°€ ì•„ë‹ˆê³  %f
+		System.out.printf("%d/%d=%f",100,200,0.5); //ê¸°ë³¸ì ìœ¼ë¡œ ì†Œìˆ˜ì  6ìžë¦¬ê¹Œì§€ ë‚˜ì˜´.
 		
 		
 	}

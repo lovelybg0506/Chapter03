@@ -4,11 +4,11 @@ public class Ex03_02 {
 
 	public static void main(String[] args) {
 
-//		System.out.printf("%d",100,200); // 100¸¸ Àû¿ëÀÌ µÊ.
-		System.out.printf("%d%d",100,200); // %d¸¦ 2°³¸¦ ÀûÀ¸¸é µÊ.
-		System.out.printf("\n");	//EnterÅ° È¿°ú
+//		System.out.printf("%d",100,200); // 100ë§Œ ì ìš©ì´ ë¨.
+		System.out.printf("%d%d",100,200); // %dë¥¼ 2ê°œë¥¼ ì ìœ¼ë©´ ë¨.
+		System.out.printf("\n");	//Enterí‚¤ íš¨ê³¼
 		System.out.printf("%d %d",100,200);
-//		System.out.printf("%d %d",100); // %d´Â 2°³ÀÎµ¥ Á¤¼ö´Â 1°³¶ó ¿¡·¯°¡ ³².
+//		System.out.printf("%d %d",100); // %dëŠ” 2ê°œì¸ë° ì •ìˆ˜ëŠ” 1ê°œë¼ ì—ëŸ¬ê°€ ë‚¨.
 		
 	}
 

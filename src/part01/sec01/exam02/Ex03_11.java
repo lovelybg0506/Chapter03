@@ -1,5 +1,7 @@
 package part01.sec01.exam02;
 
+import java.util.Scanner;
+
 public class Ex03_11 {
 
 	public static void main(String[] args) {
@@ -9,27 +11,27 @@ public class Ex03_11 {
 		
 		a='A'; // 65
 		System.out.printf("%c\t",a); //char
-		System.out.printf("%d\t",a); //Á¤¼öÃâ·Â
+		System.out.printf("%d\t",a); //ì •ìˆ˜ì¶œë ¥
 		
-//		char a,b,c,d,e; // Å¸ÀÔÀÌ ´Ş¶óµµ À§¿Í º¯¼ö¸íÀÌ µ¿ÀÏÇØ¼­ ¾ÈµÊ.
+//		char a,b,c,d,e; // íƒ€ì…ì´ ë‹¬ë¼ë„ ìœ„ì™€ ë³€ìˆ˜ëª…ì´ ë™ì¼í•´ì„œ ì•ˆë¨.
 		
 		*/
 		
-		char a,b,c,d,e;
+		char a,b,c,d,e,f;
 		a='A'; // 65
 		System.out.printf("%c\t", a);
-		System.out.printf("%d\n", (int)a); // a¸¦ Ä³½ºÆÃÇÏÁö¾ÊÀ¸¸é ¿¡·¯°¡³².
+		System.out.printf("%d\n", (int)a); //aë¥¼ ìºìŠ¤íŒ…í•˜ì§€ì•Šìœ¼ë©´ ì—ëŸ¬ê°€ë‚¨.
 		
 		b='a'; // 97
-//		c=b+1; // ±âº»¿¬»êÀÌ ÀÌ·ç¾îÁö¸é ¹«Á¶°Ç4byte ¿¬»êÀÌ µÈ´Ù.
-		c=(char)(b+1); // b+1¿¡µµ °ıÈ£¸¦ ÃÄÁà¾ßÇÑ´Ù.
+//		c=b+1; // ê¸°ë³¸ì—°ì‚°ì´ ì´ë£¨ì–´ì§€ë©´ ë¬´ì¡°ê±´4byte ì—°ì‚°ì´ ëœë‹¤.
+		c=(char)(b+1); // b+1ì—ë„ ê´„í˜¸ë¥¼ ì³ì¤˜ì•¼í•œë‹¤.
 		System.out.printf("%c \t",b);
 		System.out.printf("%c \t\n",c);
 		
 		d=90; // Z
 		System.out.printf("%c \t\n",d);
 		
-		d='°¡';
+		d='ê°€';
 		System.out.printf("%c \t\n",d);
 		System.out.printf("%d \t\n",(int)d);
 		
@@ -37,9 +39,7 @@ public class Ex03_11 {
 		System.out.printf("%c \t\n",e);
 		System.out.printf("%d \t\n",(int)d);
 		System.out.printf("%d \t\n",(int)e);
-		
-		
-		
+
 		
 	}
 

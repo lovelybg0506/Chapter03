@@ -8,10 +8,10 @@ public class Ex03_07 {
 		double b;
 		
 		a=(int) 123.45; //casting
-		System.out.printf("aÀÇ °ª==>%d\n",a);
+		System.out.printf("aì˜ ê°’==>%d\n",a);
 
-		b=200; // 200.0 double=½Ç¼öÇü ÀÌ±â¶§¹®
-		System.out.printf("bÀÇ °ª==>%f\n",b);
+		b=200; // 200.0 double=ì‹¤ìˆ˜í˜• ì´ê¸°ë•Œë¬¸
+		System.out.printf("bì˜ ê°’==>%f\n",b);
 		
 	}
 	

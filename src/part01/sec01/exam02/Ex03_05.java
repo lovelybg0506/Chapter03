@@ -5,14 +5,14 @@ public class Ex03_05 {
 	public static void main(String[] args) {
 
 		System.out.printf("%d\n",123);
-		System.out.printf("%5d\n",123); //ÀÚ¸´¼ö¸¦ 5ÀÚ¸´¼ö·Î ¸¸µê
-		System.out.printf("%05d\n",123); //¾Õ¿¡ ³²´ÂÀÚ¸®´Â 0À¸·Î ´ëÃ¼
+		System.out.printf("%5d\n",123); //ìë¦¿ìˆ˜ë¥¼ 5ìë¦¿ìˆ˜ë¡œ ë§Œë“¦
+		System.out.printf("%05d\n",123); //ì•ì— ë‚¨ëŠ”ìë¦¬ëŠ” 0ìœ¼ë¡œ ëŒ€ì²´
 		System.out.printf("%10d\n",123456);
 		
 
-		System.out.printf("%f\n",123.45);// ±âº» ¼Ò¼öÁ¡ 6ÀÚ¸®¼ö±îÁö Ãâ·Â
-		System.out.printf("%7.1f\n",123.45); //4±îÁö¸¸ ÂïÇô¾ßµÇ´Âµ¥ µÚ¿¡ 5¶ó¼­ ¹İ¿Ã¸² (7ÀÌ¶ó´Â ¼ıÀÚ´Â . ±îÁö Æ÷ÇÔÇÑ Ä­ ¼ö)
-		System.out.printf("%7.3f\n",123.45); //¼Ò¼öÁ¡3ÀÚ¸® ±îÁö Âï¾î¾ßÇÏ´Âµ¥ 0ÀÌ¶ó¼­ .450Ãâ·Â
+		System.out.printf("%f\n",123.45);// ê¸°ë³¸ ì†Œìˆ˜ì  6ìë¦¬ìˆ˜ê¹Œì§€ ì¶œë ¥
+		System.out.printf("%7.1f\n",123.45); //4ê¹Œì§€ë§Œ ì°í˜€ì•¼ë˜ëŠ”ë° ë’¤ì— 5ë¼ì„œ ë°˜ì˜¬ë¦¼ (7ì´ë¼ëŠ” ìˆ«ìëŠ” . ê¹Œì§€ í¬í•¨í•œ ì¹¸ ìˆ˜)
+		System.out.printf("%7.3f\n",123.45); //ì†Œìˆ˜ì 3ìë¦¬ ê¹Œì§€ ì°ì–´ì•¼í•˜ëŠ”ë° 0ì´ë¼ì„œ .450ì¶œë ¥
 	
 		System.out.printf("%s\n","Hi~~Java");
 		System.out.printf("%10s\n","Hi~~Java");

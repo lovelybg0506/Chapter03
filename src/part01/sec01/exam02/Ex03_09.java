@@ -6,23 +6,23 @@ public class Ex03_09 {
 
 		int a,b,c,d;
 		
-		// º¯¼öÀÇ ÀÇ¹Ì ==> ÀçÈ°¿ë ÇÏ±â À§ÇØ¼­ º¯¼ö¸¦ »ç¿ë
+		// ë³€ìˆ˜ì˜ ì˜ë¯¸ ==> ìž¬í™œìš© í•˜ê¸° ìœ„í•´ì„œ ë³€ìˆ˜ë¥¼ ì‚¬ìš©
 		a=100+100;	//200
 		b=a+100;	//300
 		c=a+b-100; //400
 		d=a+b+c;	//900
 		
-		System.out.printf("a,b,c,dÀÇ °ª ==>%d,%d,%d,%d\n",a,b,c,d);
+		System.out.printf("a,b,c,dì˜ ê°’==>%d,%d,%d,%d\n",a,b,c,d);
 		
 		a=b=c=d=100;
 		
-		System.out.printf("a,b,c,dÀÇ °ª ==>%d,%d,%d,%d\n",a,b,c,d);
+		System.out.printf("a,b,c,dì˜ ê°’ ==>%d,%d,%d,%d\n",a,b,c,d);
 				
 		a=100;
 		a=a+200;
 		a=a+200;
 		
-		System.out.printf("aÀÇ °ª ==>%d\n",a);
+		System.out.printf("aì˜ ê°’ ==>%d\n",a);
 		
 	}
 

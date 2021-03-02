@@ -5,8 +5,8 @@ public class Ex03_04 {
 	public static void main(String[] args) {
 
 		System.out.printf("%d/%d=%f\n",100,200,0.5);
-		System.out.printf("%c %c\n",'a','A');// %c= char , ¹®ÀÚ ´Ü ÇÏ³ª , 'a' ÀÛÀºµû¿ÈÇ¥
-		System.out.printf("%s %s\n","IT World","Java"); // %s= ¹®ÀÚ¿­ String , Å« µû¿ÈÇ¥
+		System.out.printf("%c %c\n",'a','A');// %c= char , ë¬¸ì ë‹¨ í•˜ë‚˜ , 'a' ì‘ì€ë”°ì˜´í‘œ
+		System.out.printf("%s %s\n","IT World","Java"); // %s= ë¬¸ìì—´ String , í° ë”°ì˜´í‘œ
 	
 	}
 

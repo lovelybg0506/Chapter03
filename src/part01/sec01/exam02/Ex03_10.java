@@ -7,7 +7,7 @@ public class Ex03_10 {
 		int a=100, b=200;
 		double result;
 		
-		result=a/b; // Á¤¼ö/Á¤¼ö==>Á¤¼ö 
+		result=a/b; // ì •ìˆ˜/ì •ìˆ˜==>ì •ìˆ˜ 
 		
 		System.out.printf("%f\n", result);
 
@@ -19,8 +19,8 @@ public class Ex03_10 {
 		System.out.printf("%f\n", result);
 		
 		
-	//  float w=0.1234f;  //¹ØÁÙ°ú µ¿ÀÏ (floatÅ¸ÀÔ¿¡¸¸ ¼ıÀÚ µÚ¿¡ fºÙÀÌ±â) 
-		float w=(float)0.1234; // ½Ç¼öÇü {double(8byte) ,float(4byte)}
+	//  float w=0.1234f;  //ë°‘ì¤„ê³¼ ë™ì¼ (floatíƒ€ì…ì—ë§Œ ìˆ«ì ë’¤ì— f ë¶™ì´ê¸°) 
+		float w=(float)0.1234; // ì‹¤ìˆ˜í˜• {double(8byte) ,float(4byte)}
 		System.out.printf("%f\n", w);
 
 

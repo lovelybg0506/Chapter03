@@ -4,10 +4,10 @@ public class Ex03_06 {
 
 	public static void main(String[] args) {
 
-		System.out.printf("\nÁÙ¹Ù²Ş\n¿¬½À\n");
-		System.out.printf("\tÅÇÅ°\t¿¬½À\n");
-		System.out.printf("±ÛÀÚ°¡ \"°­Á¶\"µÇ´Â È¿°ú\n"); // (\"Å«µû¿ÈÇ¥ Ãâ·ÂÇÏ±â\")
-		System.out.printf("\\\\\\¿ª½½·¡½Ã ¼¼°³ Ãâ·Â\n");// (\ÇÏ³ª´Â Æ¯¼öÇÑ¹®ÀÚ¸¦ Ãâ·ÂÇÏ°ÔÇØÁÜ)
+		System.out.printf("\nì¤„ë°”ê¿ˆ\nì—°ìŠµ\n");
+		System.out.printf("\tíƒ­í‚¤\tì—°ìŠµ\n");
+		System.out.printf("ê¸€ìê°€ \"ê°•ì¡°\"ë˜ëŠ” íš¨ê³¼\n"); // (\"í°ë”°ì˜´í‘œ ì¶œë ¥í•˜ê¸°\")
+		System.out.printf("\\\\\\ì—­ìŠ¬ë˜ì‹œ ì„¸ê°œ ì¶œë ¥\n");// (\í•˜ë‚˜ëŠ” íŠ¹ìˆ˜í•œë¬¸ìë¥¼ ì¶œë ¥í•˜ê²Œí•´ì¤Œ)
 	
 	}
 

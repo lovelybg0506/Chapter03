@@ -8,13 +8,13 @@ public class Ex03_08 {
 		double c,d;
 		
 		a=100;
-		b=a; // º¹»ç
-		System.out.printf("a,bÀÇ °ª ==> %d,%d\n",a,b);
+		b=a; //ë³µì‚¬
+		System.out.printf("a,bï¿½ï¿½ ï¿½ï¿½ ==> %d,%d\n",a,b);
 		
 		c=111.1;
-		d=c; // º¹»ç
-		System.out.printf("c,dÀÇ °ª ==> %7.3f,%5.1f\n",c,d); // 5.1 = (.Æ÷ÇÔ 5ÀÚ¸®¼ö), ¼Ò¼öÁ¡Àº 1ÀÚ¸®±îÁö¸¸Ãâ·Â
-		// .¾ÕÀÇ¼ö´Â ÀüÃ¼ÀÚ¸´¼ö, .µÚÀÇ¼ö´Â ¼Ò¼öÁ¡ÀÌÇÏ ÀÚ¸´¼ö
+		d=c; //ë³µì‚¬
+		System.out.printf("c,dï¿½ï¿½ ï¿½ï¿½ ==> %7.3f,%5.1f\n",c,d); // 5.1 = (.í¬í•¨ 5ìžë¦¬ìˆ˜), ì†Œìˆ˜ì ì€ 1ìžë¦¬ê¹Œì§€ë§Œì¶œë ¥
+		// .ì•žì˜ìˆ˜ëŠ” ì „ì²´ìžë¦¿ìˆ˜, .ë’¤ì˜ìˆ˜ëŠ” ì†Œìˆ˜ì ì´í•˜ ìžë¦¿ìˆ˜
 		
 	}
 

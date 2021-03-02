@@ -4,9 +4,9 @@ public class Ex03_01 {
 
 	public static void main(String[] args) {
 
-		System.out.printf("100+100"); //prinf format = C¾ğ¾î¿¡¼­ ¾²´Â°Í
-		System.out.printf("\n"); // \n ÁÙÀ»¹Ù²ãÁÜ
-		System.out.printf("%d",100+100); // decimal(10Áø¼ö¿µ¾î·Î)
+		System.out.printf("100+100"); //prinf format = Cì–¸ì–´ì—ì„œ ì“°ëŠ”ê²ƒ
+		System.out.printf("\n"); // \n ì¤„ì„ë°”ê¿”ì¤Œ
+		System.out.printf("%d",100+100); // decimal(10ì§„ìˆ˜ì˜ì–´ë¡œ)
 		System.out.printf("\n");
 		
 	}

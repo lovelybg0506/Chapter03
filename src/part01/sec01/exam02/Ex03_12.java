@@ -7,7 +7,7 @@ public class Ex03_12 {
 		int a,b;
 		char c,d,e;
 		
-		a=0xF90A; // 0x =>16Áø¼öÇ¥±â¹ı / F=15 / 
+		a=0xF90A; // 0x =>16ì§„ìˆ˜í‘œê¸°ë²• / F=15 / 
 		b=0x50;
 		
 		System.out.printf("%c\n",a);
@@ -16,9 +16,9 @@ public class Ex03_12 {
 		System.out.printf("%c %d\n",c,(int)c);
 
 		d='#';
-		System.out.printf("%cÀÇ ASCII°ªÀº %dÀÔ´Ï´Ù\n",d,(int)d);
+		System.out.printf("%cì˜ ASCIIê°’ì€ %dì…ë‹ˆë‹¤\n",d,(int)d);
 		
-		e='³ª';
+		e='ë‚˜';
 		System.out.printf("%c %d\n",e,(int)e);
 		
 	}
