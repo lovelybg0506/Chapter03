@@ -17,7 +17,7 @@ public class Ex03_11 {
 		
 		*/
 		
-		char a,b,c,d,e,f;
+		char a,b,c,d,e;
 		a='A'; // 65
 		System.out.printf("%c\t", a);
 		System.out.printf("%d\n", (int)a); //a를 캐스팅하지않으면 에러가남.
